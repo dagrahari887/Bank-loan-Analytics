@@ -1,7 +1,7 @@
 # 🏦 Bank Loan Report — Financial Analytics Dashboard
 
 <p align="center">
-  <img src="summary.png" alt="Bank Loan Dashboard Summary" width="100%"/>
+  <img src="screenshots/summary.png" alt="Bank Loan Dashboard Summary" width="100%"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@ The dashboard is built across **three interactive pages** with shared KPI cards 
 
 > Good Loan vs Bad Loan segmentation + Loan Status breakdown table
 
-![Summary Dashboard](summary.png)
+![Summary Dashboard](screenshots/summary.png)
 
 **Good Loan Issued (86.18%)**
 - Applications: **33.2K**
@@ -130,7 +130,7 @@ The dashboard is built across **three interactive pages** with shared KPI cards 
 
 > Trend, geographic, and segment-level analysis
 
-![Overview Dashboard](overview.png)
+![Overview Dashboard](screenshots/overview.png)
 
 - **Monthly Trend**: Loan applications and funded amounts grew steadily from January ($28M) to December ($58M) — a **107% increase** over the year
 - **By Term**: 60-month loans account for **62.3%** of total received amount ($294M) vs 37.7% for 36-month loans ($178M)
@@ -144,7 +144,7 @@ The dashboard is built across **three interactive pages** with shared KPI cards 
 
 > Loan-level drill-through table with filters
 
-![Details Dashboard](details.png)
+![Details Dashboard](screenshots/details.png)
 
 This page provides a row-level view of every loan, sortable by Total Installment (descending). Filters available: Address State, Grade, Purpose. Key columns: ID, Purpose, Home Ownership, Grade, Sub Grade, Issue Date, Funded Amount, Int Rate, Installment, Total Amount Received.
 
